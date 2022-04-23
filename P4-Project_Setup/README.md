@@ -7,6 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[Project Repository: Rest](https://github.com/April-2022-LC-LiftOff/kale-yeah-rest)
-
-[Project Repositroy: Web](https://github.com/April-2022-LC-LiftOff/kale-yeah-web)
+[Project Repository](https://github.com/DanPortnoy33/demo)
